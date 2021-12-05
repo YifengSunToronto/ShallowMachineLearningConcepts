@@ -15,6 +15,7 @@ Also, Naive Bayes is for classification only, not for continoue value prediction
 **********************************************************************************************************************************************************************
 1. Decision Tree
 What?
+
 A Trie like structure that contains a seris of questions to direct from 1st question to the last question that leads to a final result.
 How to construct the tree?
 The feature that split the most data should be at higher level.
@@ -34,9 +35,11 @@ Solution: Lower variance could lower the impact of noise in the training data. L
 **********************************************************************************************************************************************************************
 2. Naive Bayes
 What? 
+
 A probability-based model that uses Bayes probability formula to estimate the likehood of of outcome.
 'Naive' means the model has assumed that features are not correlted and independant, which is probabily False in the real world. Therefore, we say it is Naive in reality.
 How?
+
 Training the model = finding the values that can be plugged in the Bayes formula.
 P(B|A) = P(A|B) * P(B) / P(A)
 
