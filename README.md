@@ -1,2 +1,2 @@
 # ShallowMachineLearningConcepts
-This is a review of classic shalow machinelarning models and algorithms, the applications of the models and trade-off between them.
+This is a review of classic shalow machine larning models and algorithms, the applications of the models and trade-off between them.
